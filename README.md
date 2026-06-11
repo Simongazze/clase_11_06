@@ -1,2 +1,1 @@
-# clase_11_06
-Repositorio para aprender a manejar conflitos en git hub
+Realizamos un análisis para detectar patrones relevantes a la hora de predecir el score crediticio.
